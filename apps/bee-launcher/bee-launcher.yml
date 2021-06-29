@@ -3,6 +3,19 @@ description: 'Minecraft launcher for Minecraft lovers.'
 website: 'https://bee-launcher.ga'
 repository: 'https://github.com/Nishant1500/bee-launcher'
 category: Games
+screenshots:
+  -
+    imageUrl: 'https://media.discordapp.net/attachments/826481596215197762/851810674937167911/unknown.png'
+    caption: 'Home Page Of The Launcher'
+    imageLink: 'https://bee-launcher.ga/'
+  -
+    imageUrl: 'https://media.discordapp.net/attachments/826481596215197762/851809748189446165/unknown.png'
+    caption: 'Home Page With Another Background'
+    imageLink: 'https://bee-launcher.ga/'
+  -
+    imageUrl: 'https://media.discordapp.net/attachments/826481596215197762/844854851296559104/unknown.png'
+    caption: 'News Tab'
+    imageLink: 'https://bee-launcher.ga/'
 keywords:
   - minecraft
   - minecraft launcher
